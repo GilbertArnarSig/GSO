@@ -1,0 +1,4 @@
+Halló 
+Þetta er lína 1
+Þetta er lína 2
+Þetta er lína 3
