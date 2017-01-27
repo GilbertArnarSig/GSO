@@ -5,3 +5,7 @@
 f = open("GSO.txt","w+")
 f.write("Halló \r\n")
 f.close()
+f = open("GSO.txt","a+")
+for x in range(3):
+    f.write("Þetta er lína %d\r\n" % (x+1))
+f.close()
